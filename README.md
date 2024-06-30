@@ -1,7 +1,7 @@
 - § 👋 Hi, I’m @mo00ot
 - § 👀 I’m interested in every type of modding
 - § 🌱 I’m currently learning Server administator and creation
-- § :globe_with_meridians: [Mo00otHUB](mo00ot.github.io) 
+- § :globe_with_meridians: [Mo00otHUB](https://mo00ot.github.io) 
 - § 📫 How to reach me: mootobject@duck.com
 - § 😄 Sex: Man
 - § :flight_departure: [Telegram](https://t.me/mo00othub)
